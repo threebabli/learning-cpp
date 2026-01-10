@@ -7,7 +7,7 @@ int main()
 {
     int  x=7;
 
-    cout<< x;
+    cout << x <<endl;
 
     return 0;
 
